@@ -3,6 +3,13 @@
 
 A mobile-first web application for security personnel at entry gates of communities, universities, and other facilities to manage vehicle entries efficiently.
 
+# Working
+
+
+# Scaning accuracy
+![IMG-20250611-WA0007](https://github.com/user-attachments/assets/00ca2145-014d-49f6-98ba-b95bba256044)
+
+
 ## Features
 
 - **License Plate Scanner**: OCR-powered automatic license plate recognition
