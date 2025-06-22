@@ -6,11 +6,11 @@ A mobile-first web application for security personnel at entry gates of communit
 # Working
 
 
-# Scaning accuracy
-![IMG-20250611-WA0007](https://github.com/user-attachments/assets/00ca2145-014d-49f6-98ba-b95bba256044)![IMG-20250611-WA0003](https://github.com/user-attachments/assets/26e8feaf-e480-4785-853f-67a0d9b1d0f8)
-![IMG-20250611-WA0004](https://github.com/user-attachments/assets/aed7e376-a5c7-4a8f-a608-06e0bf54d7fd)
-![IMG-20250611-WA0005](https://github.com/user-attachments/assets/fef51895-ee1f-401a-9409-56d1f2ab33f8)
-
+# Scaning accuracy# Scaning accuracy
+<img src="https://github.com/user-attachments/assets/00ca2145-014d-49f6-98ba-b95bba256044" width="500" />
+<img src="https://github.com/user-attachments/assets/98c77b0f-bdd5-41d4-a84f-b3a5ddf66034" width="500" />
+<img src="https://github.com/user-attachments/assets/aed7e376-a5c7-4a8f-a608-06e0bf54d7fd" width="500" />
+<img src="https://github.com/user-attachments/assets/fef51895-ee1f-401a-9409-56d1f2ab33f8" width="500" />
 
 ## Features
 
