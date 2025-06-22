@@ -4,9 +4,10 @@
 A mobile-first web application for security personnel at entry gates of communities, universities, and other facilities to manage vehicle entries efficiently.
 
 # Working
+![VID-20250611-WA0002 (1) mp4](https://github.com/user-attachments/assets/e98c01bd-1f4b-45a7-bad8-3b0f1fdfb90a)
 
 
-# Scaning accuracy# Scaning accuracy
+# Scaning accuracy
 <img src="https://github.com/user-attachments/assets/00ca2145-014d-49f6-98ba-b95bba256044" width="500" />
 <img src="https://github.com/user-attachments/assets/98c77b0f-bdd5-41d4-a84f-b3a5ddf66034" width="500" />
 <img src="https://github.com/user-attachments/assets/aed7e376-a5c7-4a8f-a608-06e0bf54d7fd" width="500" />
